@@ -1,5 +1,3 @@
-# DOOM style 3d (raycasting) game in Python (based on Wolfenstein 3d)
-
-Control: 'WASD' + mouse
+# DOOM - PSEUDO 3D
 
 ![doom](/sreenshots/0.jpg)
